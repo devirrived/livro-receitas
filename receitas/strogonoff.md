@@ -1,5 +1,5 @@
-# Strogonoff de Alcatra
-## INGREDIENTES
+# Strogonoff de Alcatra 
+## INGREDIENTES 🧾
 -   1 caixinha de creme de leite
 -   2 colheres (sopa) de margarina
 -   2 cebolas médias raladas
@@ -14,7 +14,7 @@
 -   1 colher (sopa) de açúcar
 -   Sal e temperos a gosto
 
-## MODO DE PREPARO
+## MODO DE PREPARO 🫕
 1.  Coloque em uma panela a margarina, as cebolas, os tomates e o alho, leve ao fogo e refogue ficares macios.
 2.  Retire do fogo e reserve.
 3.  Na mesma panela aqueça o óleo e frite a carne, sem mexer muito, até dourar.
